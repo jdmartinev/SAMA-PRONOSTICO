@@ -82,6 +82,7 @@ Esto posiciona tu proyecto como una combinación razonable y defendible de líne
 5. Si el sesgo tiene componentes de largo alcance temporal (ej. duración de eventos extremos), agregar un módulo de **atención temporal**, no solo GRU.
 6. Comparar siempre contra baselines simples: el `dt` crudo sin corregir, y un MOS/ANN sin componente de grafo — para cuantificar cuánto aporta específicamente la parte espacial.
 
+![Infograma Temporal GNN](figs/tempgnns/tempgnns.png)
 ---
 
 ## 6. Referencias
